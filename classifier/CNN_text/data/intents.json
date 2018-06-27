@@ -1,0 +1,209 @@
+{
+  "intents": [
+    {
+      "tag": "information",
+      "patterns": [
+        "I want to see the information of next patient",
+        "Please show me the information of next patient",
+        "show me the next patient's information",
+        "what about the information of next patient",
+        "give me a look at the patient’s medical record",
+        "I want to see this person's basic information",
+        "display basic information of this person"
+      ],
+      "responses": [
+        "Ok, this is your private profile"
+      ]
+    },
+    {
+      "tag": "reservation",
+      "patterns": [
+        "Help me to show my reservation of this week",
+        "Please show me my reservation",
+        "I want to see my reservation",
+        "I want to check my reservation",
+        "show me the reservation",
+        "I want to check my appointment this week",
+        "display my appointment information this week",
+        "I want to see this week's appointment",
+        "I want to see this week's appointment with the patient"
+      ],
+      "responses": [
+        "Ok, this is your reservation of this week"
+      ]
+    },
+    {
+      "tag": "new_reservation",
+      "patterns": [
+        "Help me to make new reservation",
+        "Please help me to make new reservation",
+        "I want to make new reservation",
+        "I want to add a new appointment"
+      ],
+      "responses": [
+        "Please tell me the day of week"
+      ]
+    },
+    {
+      "tag": "reservation_cancelled",
+      "patterns": [
+        "Help me to cancel it",
+        "Empty the information",
+        "I want to reset the reservation",
+        "cancel this appointment",
+        "no, help me cancel this appointment"
+      ],
+      "responses": [
+        "Ok, your new reservation has been cancelled"
+      ]
+    },
+    {
+      "tag": "close_window",
+      "patterns": [
+        "Help me to close it",
+        "close the window",
+        "Please close it",
+        "help me to hide the window",
+        "hide it",
+        "close it",
+        "turn off the window"
+      ],
+      "responses": [
+        "Ok, your new reservation has been cancelled"
+      ]
+    },
+    {
+      "tag": "next_page",
+      "patterns": [
+        "Help me to jump to next page",
+        "next page",
+        "Please jump to next page",
+        "I want to see the next page",
+        "show me the next page",
+        "next-page"
+      ],
+      "responses": [
+        "Ok, your new reservation has been cancelled"
+      ]
+    },
+    {
+      "tag": "last_page",
+      "patterns": [
+        "Help me to jump to last page",
+        "next page",
+        "Please jump to last page",
+        "I want to see the last page",
+        "show me the last page",
+        "last-page"
+      ],
+      "responses": [
+        "Ok, your new reservation has been cancelled"
+      ]
+    },
+    {
+      "tag": "hide_information",
+      "patterns": [
+        "hide the information",
+        "hide the information of patient",
+        "close the information panel",
+        "hide the next patient's information",
+        "help me hide patient information"
+      ],
+      "responses": [
+        "Ok, your new reservation has been cancelled"
+      ]
+    },
+    {
+      "tag": "allergic_history",
+      "patterns": [
+        "show me the details of allergic history",
+        "I want to see the details of allergic history",
+        "Please display the details of allergic history",
+        "allergic history",
+        "I want to see detailed information on the history of allergies",
+        "I want to read more about the history of allergies"
+      ],
+      "responses": [
+        "Ok, your new reservation has been cancelled"
+      ]
+    },
+    {
+      "tag": "condition_history",
+      "patterns": [
+        "show me the details of allergic history",
+        "I want to see the details of condition history",
+        "Please display the details of condition history",
+        "condition history",
+        "I want to see detailed information on the history of conditions",
+        "I want to read more about the history of conditions"
+      ],
+      "responses": [
+        "Ok, your new reservation has been cancelled"
+      ]
+    },
+    {
+      "tag": "chat_record",
+      "patterns": [
+        "show me the previous chatting record.",
+        "I want to see the conversation content before",
+        "chat record",
+        "give me a look at the previous meeting minutes",
+        "give me a look at the previous conversation"
+      ],
+      "responses": [
+        "Ok, your new reservation has been cancelled"
+      ]
+    },
+    {
+      "tag": "return_to_schedule",
+      "patterns": [
+        "back to the calendar",
+        "return to the calendar",
+        "return to the schedule",
+        "back to the calendar",
+        "help me to show my schedule",
+        "please show me my schedule",
+        "I want to see my schedule",
+        "I want to check my schedule",
+        "show me the schedule",
+        "return to calendar interface",
+        "back to my schedule",
+        "give me another look at my schedule"
+      ],
+      "responses": [
+        "Ok, your new reservation has been cancelled"
+      ]
+    },
+    {
+      "tag": "image",
+      "patterns": [
+        "show me the image of Magnetic Resonance Imaging",
+        "Magnetic Resonance Imaging",
+        "let me see the image of Magnetic Resonance Imaging",
+        "show me the image of MRI",
+        "MRI",
+        "let me see the image of MRI",
+        "images"
+      ],
+      "responses": [
+        "Ok, your new reservation has been cancelled"
+      ]
+    },
+    {
+      "tag": "image_preview",
+      "patterns": [
+        "I want to preview Magnetic Resonance Imaging",
+        "I want to preview the image of Magnetic Resonance Imaging",
+        "show me more details of Magnetic Resonance Imaging",
+        "help me to magnify the image",
+        "I want to see more details about Magnetic Resonance Imaging",
+        "I want to see more details about the images",
+        "show me more details of the images",
+        "help me to magnify the image of Magnetic Resonance Imaging"
+      ],
+      "responses": [
+        "Ok, your new reservation has been cancelled"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/xuhlu/PycharmProjects/SpeechDemo/app/static/model.tflearn"
+all_model_checkpoint_paths: "/Users/xuhlu/PycharmProjects/SpeechDemo/app/static/model.tflearn"
