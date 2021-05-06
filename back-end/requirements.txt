@@ -9,7 +9,7 @@ chardet==3.0.4
 click==6.7
 docutils==0.14
 Flask==0.12.2
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-SocketIO==2.9.6
 gast==0.2.0
 google-api-core==1.0.0
